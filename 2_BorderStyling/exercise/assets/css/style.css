@@ -64,8 +64,10 @@ img {
     padding: 20px;
     margin: 20px;
     text-align: center;
-    border: 2px solid black;
+    border: 2px solid white;
     /* Old styling */
-   
+
     /* Add New styling here */
+    border-radius: 4%;
+    box-shadow: 5px 5px 5px  #cccccc
 }
